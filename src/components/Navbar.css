@@ -1,0 +1,7 @@
+ul {
+  list-style-type: none !important;
+}
+ul#menu li {
+  text-align: center;
+  display: inline !important;
+}

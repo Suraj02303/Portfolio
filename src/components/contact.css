@@ -1,0 +1,62 @@
+.github-icon {
+  transform: scale(3);
+  color: rgb(3, 3, 3);
+  cursor: pointer;
+}
+.resume-icon {
+  transform: scale(3);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+.email-link {
+  font-size: medium;
+  color: rgb(48, 8, 160);
+}
+.lkdin-icon {
+  transform: scale(3);
+  color: rgb(16, 170, 231);
+  cursor: pointer;
+}
+.fb-icon {
+  transform: scale(3);
+  cursor: pointer;
+  color: rgb(16, 109, 231);
+}
+.github-icon:hover {
+  transform: scale(3.5);
+  transition: transform 0.5s ease;
+}
+.email-link:hover {
+    text-decoration: underline;
+  }
+.lkdin-icon:hover {
+  transform: scale(3.5);
+  transition: transform 0.5s ease;
+}
+.fb-icon:hover {
+  transform: scale(3.5);
+  transition: transform 0.5s ease;
+}
+.resume-icon:hover {
+  transform: scale(3.5);
+  transition: transform 0.5s ease;
+}
+/* .custom_btn{
+  place-items: center;
+  padding: 5rem !important;
+  display: flex;
+  justify-content: center;
+} */
+.body-c {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  padding: 3rem;
+}
+.Contactstyle {
+  background: radial-gradient(#dde0db, #e0789e);
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}

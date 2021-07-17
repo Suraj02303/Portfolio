@@ -1,0 +1,27 @@
+.container-fluid{
+  background: radial-gradient(#4e9b1b, #1f27a1);
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-top:3rem;
+  padding-bottom: 3rem
+}
+.card:hover{
+  box-shadow: 5px 10px 20px 1px rgba(46, 2, 2, 0.253) !important
+}
+.card-body{
+  padding: 3rem 0!important;
+}
+.card-text{
+font-size: .9rem;
+padding: 0.4 1.9rem;
+}
+.card-img-top{
+  transform: scale(1);
+  transition: transform 0.5s ease
+}
+.overflow{
+  overflow: hidden;
+}
+.card-img-top:hover{
+  transform: scale(1.8);
+}

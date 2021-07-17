@@ -1,0 +1,26 @@
+.skill-icons {
+  transform : scale(12);
+  color: rgb(20, 168, 149);
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+}
+.skill{
+  background: radial-gradient(#d4caca, #dadbe6);
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-top:3rem;
+  padding-bottom: 3rem
+}
+.skill-body-icon{
+  padding: 5rem;
+  margin: 0 auto;
+  justify-content: center;
+}
+.skill-text{
+font-size: .9rem;
+padding: 0.4 1.9rem;
+}
+.overflow{
+  overflow: hidden;
+}
